@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+<!-- Metadata section - see http://wiki.whatwg.org/wiki/MetaExtensions -->
+<meta name="dcterms.title" content="">
+<link rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/au/">
+<meta name="dcterms.license" content="Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Australia License">
+<meta name="dcterms.dateCopyrighted" content="2013">
+<!-- TemplateBeginEditable name="Metadata" -->
+<meta name="dcterms.description" content="">
+<meta name="dcterms.subject" content="use,comma,sep">
+<meta name="dcterms.creator" content="">
+<meta name="dcterms.created" content="2013-01-01">
+<meta name="dcterms.modified" content="2013-01-01">
+<!-- TemplateEndEditable -->
+
+<!-- Stylesheets -->
+<link rel="stylesheet" href="/styles/redbox-doc-styles.css">
+
+<!-- Scripts -->
+<!-- There should be only 1 script - load all others via scripts/main.js -->
+<script data-main="scripts/main" src="/scripts/require-jquery.js"></script>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title></title>
+<!-- TemplateEndEditable -->
+
+</head>
+
+<body>
+
+<div id="redbox-template-">
+	<!-- -->
+</div>
+<!-- TemplateBeginEditable name="ArticleText" -->ArticleText<!-- TemplateEndEditable -->
+
+
+
+</body>
+</html>
