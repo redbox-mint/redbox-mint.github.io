@@ -34,7 +34,7 @@ url: 'https://redbox-mint.github.io'
 # /REPOSITORY-NAME/
 # place folder name if the site is served in a subfolder
 # the subpath of your site, e.g. /blog
-baseurl: '/redbox-mint.github.io'
+baseurl: ''
 
 github_username: redbox-mint
 
